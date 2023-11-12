@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
+body {
+    font-family: Jost;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.headr {
+    padding-top: 10px;
+}
+
+.search {
+    background-color: #d7befe;
+    color: #8e5edb;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+    border-radius: 20px;
+}
+
+.avat {
+    padding-top: 10px;
+    border-radius: 100px;
+}
+
+.mainpoisk{
+    background-color: #C8D8E5;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size: 30px;
+    margin-top: 20px;
+    border-radius: 30px;
+}
+.mainpoisk1 {
+    padding-top: 100px;
+}
+.mainpoisk2 {
+    margin-top: 130px;
+    margin-bottom: 130px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 20px;
+    background-color: #FF6B30;
+    color: white;
+}
+
+.vseob {
+    background-color: #C8D8E5;
+    border-radius: 30px;
+    margin-top: 50px;
+}
+.poisk{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.search2 {
+    color: #8e5edb;
+    background-color: #d7befe;
+    padding-left: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 1000px;
+    border-radius: 30px;
+}
+.search3 {
+    background-color: #FF6B30;
+    color: #ffd6c6;
+    padding-left: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 200px;
+    border-radius: 30px;
+}
+
+.images {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.textimages {
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.spec {
+    font-size: 30px;
+    padding-left: 430px;
+    padding-bottom: 20px;
+}
+
+.katalogincity {
+    margin-top: 100px;
+    font-size: 35px;
+}
+
+.zadac {
+    background-color: antiquewhite;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.uslugi {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.uslugi2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+footer {
+    background-color: #23272A;
+    border-radius: 30px;
+}
+
+.help {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.help2 {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.help3 {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.name {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.primer {
+    font-size: 30px;
+    padding-left: 400px;
+    
+}
+
+img {
+    border-radius: 100px;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+}
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+a1 {
+    text-decoration: none;
+    color: white;
+}
+a1:hover {
+    text-decoration: none;
+    color: white;
+}
